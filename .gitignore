@@ -1,0 +1,19 @@
+# Godot 4
+.godot/
+*.translation
+export_presets.cfg
+
+# Unity (proyecto existente, no borrar)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+.vs/

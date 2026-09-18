@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://jgbl1v8qadb6"]
+
+[ext_resource type="Script" uid="uid://c4686d45ukbqn" path="res://nave.gd" id="1_ig7tw"]
+
+[node name="Main" type="Node3D" unique_id=143644237]
+
+[node name="CharacterBody3D" type="CharacterBody3D" parent="." unique_id=293938687]
+script = ExtResource("1_ig7tw")
